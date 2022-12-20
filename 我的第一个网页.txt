@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+ <meta charset="utf-8">
+ <title>蔡润柏的网站</title>
+ <link rel="stylesheet" href="template">
+</head>
+<body>
+ <div class="bg-img"></div>
+ <header>蔡润柏的网站</header>
+    <div style="
+      background-color:#f1f1f1;
+      text-align: center;
+      padding:40px
+    ">
+      < img src='https://p.qqan.com/up/2021-1/16110237145764738.jpg' alt='蔡润柏' width='80px' height='80px'> 
+    </div>
+  <div style="
+      max-width:700px;
+      margin:30px auto;
+      padding:15px;
+      line-height:1.5;
+      color:blue
+    ">
+      <h1 style="color:green">自我介绍</h1>
+      <p>你好，非常感谢你能点击进来，我的名字叫JOJO，23岁。住在翻斗花园翻斗街114514号，未婚。</p >
+      <p>我在典明粥连锁店工作。每天都要加班到晚上8点才能回家。我不抽烟，不喝酒，游戏仅止于浅尝。</p >
+      <p>晚上11点睡，每天要睡足8个小时。睡前，我一定喝一杯温牛奶，然后做20分钟的柔软操。</p >
+      <p>上了床，马上熟睡。一觉到天亮，决不把疲劳和压力，留到第二天。医生都说我很正常。</p >
+    </div>
+    <div style="
+      background-color:#f1f1f1;
+      text-align: center;
+      padding:40px;
+      font-size:12px
+      ">
+      <p>这是我写的第一个网站</p >
+      <p>或许看起来有些简陋，但我会不断修改的。</p >
+      <p>欢迎点击< a href=" ">友情链接</ a></p >
+    </div>
+</body>
+</html>
